@@ -4,6 +4,12 @@
 
 ## 以下悪戦苦闘の備忘録
 
+コンテナビルド用のライブラリを追加
+
+```
+> dotnet add package Microsoft.NET.Build.Containers
+```
+
 Windows で試しに起動
 
 ```
